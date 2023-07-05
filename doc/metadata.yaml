@@ -6,19 +6,19 @@ homepage: false
 images:
 - doc/img/RS232SINGLE01A_top_small.jpg
 - doc/img/RS232SINGLE01A_Bot_small.jpg
-- doc/src/RS232SINGLE01A_Bot.jpg
 - doc/src/RS232SINGLE01A_top_big.jpg
+- doc/src/RS232SINGLE01A_Bot.jpg
+- doc/html/Pictures/image006.jpg
 - doc/html/Pictures/image005.jpg
 - doc/html/Pictures/image001.jpg
-- doc/html/Pictures/image006.jpg
-- hw/cam_doc/RS232SINGLE01A_PCB_Bot.jpg
 - hw/cam_doc/RS232SINGLE01A_PCB_top_small.jpg
 - hw/cam_doc/RS232SINGLE01A_PCB_Bot_small.jpg
 - hw/cam_doc/RS232SINGLE01A_PCB_top.jpg
+- hw/cam_doc/RS232SINGLE01A_PCB_Bot.jpg
 - doc/img/RS232SINGLE01A_QRcode.png
-- doc/html/Pictures/image002.gif
 - doc/html/Pictures/image003.gif
 - doc/html/Pictures/image004.gif
+- doc/html/Pictures/image002.gif
 mark: 50
 tags:
 - mlab
