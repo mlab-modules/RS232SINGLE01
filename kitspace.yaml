@@ -5,4 +5,6 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/RS232SINGLE01
-summary: null
+summary: The module uses well known MAX232 chip and is intended as a level converter.
+  It uses RX/TX signals and a pair of flow control signals (selectable by jumpers).
+  Original RS232 signals are available on header pins.

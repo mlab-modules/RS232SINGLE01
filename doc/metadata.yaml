@@ -1,4 +1,6 @@
-description: null
+description: The module uses well known MAX232 chip and is intended as a level converter.
+  It uses RX/TX signals and a pair of flow control signals (selectable by jumpers).
+  Original RS232 signals are available on header pins.
 github_branch: RS232SINGLE01A
 github_repo: RS232SINGLE01
 github_url: https://github.com/mlab-modules/RS232SINGLE01
@@ -6,19 +8,19 @@ homepage: false
 images:
 - doc/img/RS232SINGLE01A_top_small.jpg
 - doc/img/RS232SINGLE01A_Bot_small.jpg
-- doc/src/RS232SINGLE01A_top_big.jpg
 - doc/src/RS232SINGLE01A_Bot.jpg
-- doc/html/Pictures/image006.jpg
+- doc/src/RS232SINGLE01A_top_big.jpg
 - doc/html/Pictures/image005.jpg
 - doc/html/Pictures/image001.jpg
+- doc/html/Pictures/image006.jpg
+- hw/cam_doc/RS232SINGLE01A_PCB_Bot.jpg
 - hw/cam_doc/RS232SINGLE01A_PCB_top_small.jpg
 - hw/cam_doc/RS232SINGLE01A_PCB_Bot_small.jpg
 - hw/cam_doc/RS232SINGLE01A_PCB_top.jpg
-- hw/cam_doc/RS232SINGLE01A_PCB_Bot.jpg
 - doc/img/RS232SINGLE01A_QRcode.png
+- doc/html/Pictures/image002.gif
 - doc/html/Pictures/image003.gif
 - doc/html/Pictures/image004.gif
-- doc/html/Pictures/image002.gif
 mark: 50
 tags:
 - mlab
