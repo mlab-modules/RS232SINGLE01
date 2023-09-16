@@ -5,6 +5,7 @@ github_branch: RS232SINGLE01A
 github_repo: RS232SINGLE01
 github_url: https://github.com/mlab-modules/RS232SINGLE01
 homepage: false
+image_title: doc/img/RS232SINGLE01A_top_small.jpg
 images:
 - doc/src/RS232SINGLE01A_Bot.jpg
 - doc/src/RS232SINGLE01A_top_big.jpg
